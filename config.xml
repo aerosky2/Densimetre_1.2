@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <widget id="fr.mediafood.densimetre" version="0.0.1">
+        <name>Densimètre</name>
+        <description>
+          Connaître les quantités de Sucre et d'eau nécessaire à la réalisation d'un litre de sirop à froid pour un degré Baumé donné.
+        </description>
+        <author email="cbvmmb@gmail.com" href="http://mediafood.org/tice-pro">
+               Benoit Martinet  Ep@tice: Enseignement professonnel assisté par les TICE
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+        <preference name="Fullscreen" value="true" />
+        <preference name="WebViewBounce" value="true" />
+		<icon src="icone.png" height="114" width="114"/>
+    </widget>
