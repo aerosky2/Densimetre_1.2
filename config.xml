@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-   <widget id="fr.mediafood.densimetre" version="0.0.1">
+  	<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+       id = "com.ep@tice.densimetre-001"
+        version = "1.01.14">
         <name>Densimètre</name>
         <description>
           Connaître les quantités de Sucre et d'eau nécessaire à la réalisation d'un litre de sirop à froid pour un degré Baumé donné.
@@ -12,3 +15,6 @@
 		<icon src="icone.png" height="114" width="114"/>
 		<gap:splash src="splash.png"  width="320" height="480"/>
     </widget>
+	
+	
+		
