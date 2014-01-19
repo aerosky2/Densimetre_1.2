@@ -8,9 +8,7 @@
         <author email="cbvmmb@gmail.com" href="http://mediafood.org/tice-pro">
                Benoit Martinet  Ep@tice: Enseignement professonnel assisté par les TICE
         </author>
-        <content src="index.html" />
-        <access origin="*" />
-        <preference name="Fullscreen" value="true" />
-        <preference name="WebViewBounce" value="true" />
+       
 		<icon src="icone.png" height="114" width="114"/>
+		<gap:splash src="splash.png"  width="320" height="480"/>
     </widget>
